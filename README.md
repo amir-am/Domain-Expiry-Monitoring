@@ -9,4 +9,4 @@ Requirements:
 - InfluxDB & Telegraf: https://portal.influxdata.com/downloads/
 
 Remember:
-- At first you need to apply your informations in both of dashoboard and configuration (YOUR-NAME, YOUR-PATH, DOMAIN1, DOMAIN2, DOMAIN3)
+- At first you need to apply your informations in both of dashoboard and configuration (YOUR-NAME, YOUR-PATH, DOMAIN1, DOMAIN2, DOMAIN3, ...)
