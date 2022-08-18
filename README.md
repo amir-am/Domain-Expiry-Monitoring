@@ -1,6 +1,6 @@
 # Domain Expiry Monitoring
 
-In this dashboard you can monitor how many days left until domain expire:
+In this dashboard you can monitor how many days left until your domains expire:
 
 ![image](https://user-images.githubusercontent.com/43276746/185423745-a4a0c487-af60-441d-bf6d-4d4a943a50c1.png)
 
